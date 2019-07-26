@@ -186,10 +186,13 @@ section.resume-section .resume-item .resume-date {
 
 a {
   color: #5ea3a3;
+  text-decoration: none;
 }
 
 a:hover, a:focus, a:active {
   color: #488b8f;
+  text-decoration: none;
+
 }
 
 .project-title {
